@@ -1,5 +1,5 @@
 ## 🛠 Стек технологий
 
-https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white
+<img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
 
 
